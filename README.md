@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KushalKantiMehta
 - 👀 I’m interested in Programming...
-- 🌱 I’m currently learning web development and android development
+- 🌱 I’m Primarily work on React.
 - 💞️ I’m looking to collaborate on web development
 - 📫 You can reach me on my mail id : kushalkanti9697@gmail.com
 
